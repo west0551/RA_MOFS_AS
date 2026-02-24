@@ -1,0 +1,1 @@
+Paradigm for PPG-based feature selection We use matlab to do PPG signal processing, fudical points detection and feature extraction. run the main.mat and you can get the feature set, we also provide 10 samples.
